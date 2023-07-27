@@ -7,6 +7,30 @@ public static void main(String[] args){
  i = i - j ;
  System.out.println(i);
 System.out.println(j);
+
+
 } 
 
+{int i = 10 ;
+int j = 7 ; 
+int k = i ;
+ i = j ;
+ j = k ;
+ System.out.println(i);
+System.out.println(j);
 }
+
+{
+{ int i = 10; 
+
+int int = 20; 
+
+int goto = 30; 
+
+int default = 40; 
+
+int class = 50; 
+
+int j = 70;}}
+}
+
